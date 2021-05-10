@@ -34,7 +34,7 @@ $ npm run start
 
 1. Grab source by either using Git to clone or by [`downloading!`](https://github.com/sujalgoel/slash-suggestion-bot/archive/master.zip)
 2. Run `npm i` to install dependencies.
-3. Rename [`example.config.js`](https://github.com/sujalgoel/discord-levelling-bot/blob/master/example.config.js) to `config.js` and replace the marked fields with the proper credentials.
+3. Rename [`example.config.js`](https://github.com/sujalgoel/slash-suggestion-bot/blob/master/example.config.js) to `config.js` and replace the marked fields with the proper credentials.
 4. Now run `npm run start` to start the application!
 5. Go to Discord and test your bot.
 
