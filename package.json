@@ -1,0 +1,23 @@
+{
+  "name": "suggestion-bot",
+  "version": "1.0.0",
+  "description": "A suggestion bot with Discord Slash Commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sujal Goel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sujalgoel/slash-suggestion-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujalgoel/slash-suggestion-bot.git"
+  },
+  "dependencies": {
+    "discord-slash-commands": "git+https://github.com/ShadeDevelopment/discord-slash-commands.git",
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.7"
+  }
+}
